@@ -1,0 +1,162 @@
+body {
+    background-image: url("images/Alaska.jpg");
+    background-size: cover;
+    font-family: 'Roboto Condensed', sans-serif;
+    width:1300px;
+    height:2450px;
+    padding:75px;
+}
+.navbar a {
+    float: left;
+    color: #525252;
+    background: #8c8c8c;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 12px;
+    width: 220px;
+}
+.navbar a:hover {
+    background-color: #000;
+} 
+body {
+    background-image: url("images/Alaska.jpg");
+    background-size: cover;
+    font-family: 'Roboto Condensed', sans-serif;
+    width:1300px;
+    height:2450px;
+    padding:75px;
+}
+main {
+    background: #b7b7b7;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif; 
+    height: 2050px;
+}
+.introduction {
+    padding: 50px;
+    background-image: url('images/alaska-2.jpg');
+    background-size: cover;
+}
+h1 {
+    font-size: 60px;
+}
+.logo{
+    padding: 20px 10px 10px 0;
+    margin-left: -16px;
+}
+h2 {
+    text-align:center;
+    font-style: oblique;
+    font-size: 30px;
+}
+.glacier {
+    padding: 3px;
+    float: right;
+}
+
+.glacier figure{
+    float: right;
+}
+.glacier p{
+    margin-top: 10px;
+    padding: 0 40px;
+}
+.lights {
+    padding: 3px;
+    float: left;
+}
+.lights figure{
+    float: left;
+}
+.lights p{
+    margin-top: 10px;
+    padding: 0 40px;
+}
+.marina {
+    padding: 3px;
+    float: right;
+}
+.marina figure{
+    float: right;
+}
+.marina p{
+    margin-top: 10px;
+    padding: 0 40px;
+}
+.bear {
+    padding: 3px;
+    float: left;  
+}
+.bear figure{
+    float: left;  
+}
+.bear p{
+    margin-top: 10px;
+    padding: 0 40px;
+}      
+input[type=text] { 
+        width: 30%;
+        padding: 6px;
+        margin: 4px 0;
+        display: inline;
+        border: 1px solid #ccc;
+        box-sizing: border-box; 
+      }
+.button {
+    color: #ffffff;
+    background-color: #610404;
+    padding: 8px 20px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #ff0000;
+}
+footer {
+    background-color: #8c8c8c;
+    padding: 60px;
+ 
+} 
+footer p {
+    margin-top:-8px;
+}
+
+ .social-media{
+    text-align: center;
+    padding: 30px 0 0 0; 
+} 
+.fa {
+    padding: 10px; 
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    position: relative;
+    bottom: 0;
+  }
+.fa:hover {
+      opacity: 0.7;
+  } 
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  } 
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+        background: #125688;
+        color: white;
+}
+
+
+
+
+
+
+ 
+ 
